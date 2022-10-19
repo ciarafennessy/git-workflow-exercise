@@ -1,7 +1,8 @@
 #!/bin/bash
 
+
 # stage changes
-git --add
+git add --all
 
 # commit changes
 git commit
